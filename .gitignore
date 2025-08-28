@@ -1,0 +1,40 @@
+# =========================
+# OS / Sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Node (frontend Vite)
+# =========================
+node_modules/
+dist/
+.env
+.env.local
+
+# =========================
+# .NET (backend Web API)
+# =========================
+bin/
+obj/
+*.user
+*.dbmdl
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos generados por Visual Studio / Rider
+.vs/
+.idea/
+*.ncrunchsolution
+*.ncrunchproject
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Config locales
+# =========================
+appsettings.Development.json
