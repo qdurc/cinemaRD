@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cinemaRD.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+251db2f0461662850034b9d0942dc05afbd6d3fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("cinemaRD.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cinemaRD.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
