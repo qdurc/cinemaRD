@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XoM13LiyPYQ=",
+  "success": true,
+  "projectFilePath": "/Users/eduardocolon/Documents/GitHub/cinemaRD/backend/cinemaRD.Api/cinemaRD.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/eduardocolon/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/eduardocolon/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
