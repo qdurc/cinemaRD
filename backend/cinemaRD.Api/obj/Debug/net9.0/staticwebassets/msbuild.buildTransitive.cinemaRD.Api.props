@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/cinemaRD.Api.props" />
-</Project>
