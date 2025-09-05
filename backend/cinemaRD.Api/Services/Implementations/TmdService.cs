@@ -1,7 +1,4 @@
-using System;
-using System.Net.WebSockets;
 using cinemaRD.Api.Dtos;
-using Microsoft.AspNetCore.Mvc.Routing;
 
 namespace cinemaRD.Api.Services;
 
